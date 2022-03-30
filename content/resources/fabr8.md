@@ -7,6 +7,7 @@ image_metadata:
   caption: Bent wood laminations before glue up.
   credit: Image courtesy of OCW.
   image-alt: Fabrication processes.
+parent_uid: b04a83ac-6ce1-b70c-5173-ea9e886d5aa3
 resourcetype: Image
 title: fabr8.jpg
 uid: 47bcdedc-7c37-97b0-fb15-f4b52d0315cd

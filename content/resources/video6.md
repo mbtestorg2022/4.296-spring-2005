@@ -7,6 +7,7 @@ image_metadata:
   caption: A complex wood bending demonstration (Part II).
   credit: Image courtesy of OCW.
   image-alt: A complex wood bending demonstration (Part II).
+parent_uid: 4baa8b61-df88-0ca4-53b9-bc27df35be3d
 resourcetype: Image
 title: video6.jpg
 uid: aa3c083e-2b7e-a30c-3b28-84e9246711f6

@@ -7,6 +7,7 @@ image_metadata:
   caption: The three chair set compacted.
   credit: Image by Chris Dewart.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin2.jpg
 uid: d8acda33-d03a-5b18-f524-06cb315b75d6

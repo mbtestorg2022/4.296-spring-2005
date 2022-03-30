@@ -8,6 +8,7 @@ image_metadata:
   caption: One example of a design for the side of the pencil box.
   credit: Image courtesy of OCW.
   image-alt: Pencil box construction.
+parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 resourcetype: Image
 title: penbox5.jpg
 uid: bf548a57-6568-25eb-11cc-770bb3f3b1e5

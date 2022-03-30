@@ -7,6 +7,7 @@ image_metadata:
   caption: A detail of the table legs.
   credit: Image courtesy of OCW.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin6.jpg
 uid: cf0d2579-478b-7258-146b-18e1f5fa6e60

@@ -8,6 +8,7 @@ image_metadata:
   caption: These apples rest comfortably on this chair by Lilly Donohue.
   credit: Image by Chris Dewart.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin4.jpg
 uid: 5c035689-0cd6-d2a1-ac7b-93f72e7c239e

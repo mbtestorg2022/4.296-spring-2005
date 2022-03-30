@@ -7,6 +7,7 @@ image_metadata:
   caption: A post-chiseling view of a box piece.
   credit: Image courtesy of OCW.
   image-alt: Pencil box construction.
+parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 resourcetype: Image
 title: penbox4.jpg
 uid: 47bf2436-735d-4835-a3bc-a81d03297896

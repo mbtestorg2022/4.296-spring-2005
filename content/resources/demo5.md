@@ -8,6 +8,7 @@ image_metadata:
   caption: The CNC mill creates a complex form on a table top.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 resourcetype: Image
 title: demo5.jpg
 uid: d52d0fcd-8d53-442c-630b-5dd900a5e9b7

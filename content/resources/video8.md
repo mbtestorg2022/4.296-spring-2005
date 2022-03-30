@@ -7,6 +7,7 @@ image_metadata:
   caption: A chair set is revealed from the compact form.
   credit: Image courtesy of OCW.
   image-alt: A chair set is revealed from the compact form.
+parent_uid: 4baa8b61-df88-0ca4-53b9-bc27df35be3d
 resourcetype: Image
 title: video8.jpg
 uid: 7d8896fe-dd66-5d26-3f3c-fbba0a29c92e

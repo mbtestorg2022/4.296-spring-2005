@@ -8,6 +8,7 @@ image_metadata:
   caption: A clamp holds the wood stable while pieces are sawed away.
   credit: Image courtesy of OCW.
   image-alt: Pencil box construction.
+parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 resourcetype: Image
 title: penbox3.jpg
 uid: 24364dfa-8aac-07ce-0b89-56411ff5497a

@@ -8,6 +8,7 @@ image_metadata:
   caption: End view of this table with a unique curvature in its design.
   credit: Image by Chris Dewart.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin8.jpg
 uid: 4e08800d-01e8-6350-ae14-1528902d1aa7

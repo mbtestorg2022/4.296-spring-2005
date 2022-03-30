@@ -8,6 +8,7 @@ image_metadata:
   caption: This table, by Lira Nikolovska, has a built in compartment for fruit storage.
   credit: Image by Chris Dewart.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin5.jpg
 uid: ff7196b8-3011-7d6e-9c76-cce60aefa711

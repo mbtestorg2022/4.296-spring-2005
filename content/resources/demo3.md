@@ -8,6 +8,7 @@ image_metadata:
   caption: Clamps hold the wood laminations to the bending form until they dry.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 resourcetype: Image
 title: demo3.jpg
 uid: 98bd0f6a-5fcf-a30e-0ffb-1f7fcdb5dbfd

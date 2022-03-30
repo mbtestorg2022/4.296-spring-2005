@@ -8,6 +8,7 @@ image_metadata:
   caption: Sawing out the pieces to construct dovetail joints.
   credit: Image courtesy of OCW.
   image-alt: Pencil box construction.
+parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 resourcetype: Image
 title: penbox1.jpg
 uid: e12d7f8a-b2f9-c977-89db-bb4c4c8c1a19

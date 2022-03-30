@@ -8,6 +8,7 @@ image_metadata:
   caption: A hammer and chisel are used for the first stages of contouring a surface.
   credit: Image courtesy of OCW.
   image-alt: A hammer and chisel are used for the first stages of contouring a surface.
+parent_uid: 4baa8b61-df88-0ca4-53b9-bc27df35be3d
 resourcetype: Image
 title: video2.jpg
 uid: c771ebaa-56f4-5ef5-922d-9d2ad5c6f517

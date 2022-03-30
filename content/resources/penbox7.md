@@ -7,6 +7,7 @@ image_metadata:
   caption: Finished boxes and unattached pieces.
   credit: Image courtesy of OCW.
   image-alt: Pencil box construction.
+parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 resourcetype: Image
 title: penbox7.jpg
 uid: 198f20c1-ccf7-9ff7-0e76-f277d2cd08f1

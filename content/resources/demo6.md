@@ -8,6 +8,7 @@ image_metadata:
   caption: A wood-steaming chamber, ready to prepare wood for bending.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 resourcetype: Image
 title: demo6.jpg
 uid: fd09f506-840f-674c-2ce7-229626a41b8d

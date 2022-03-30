@@ -8,6 +8,7 @@ image_metadata:
   caption: Plywood bent to the shape of a styrofoam form for vacuum forming.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 resourcetype: Image
 title: demo7.jpg
 uid: 0f6ea4bb-8621-e272-74b2-409c487cb362

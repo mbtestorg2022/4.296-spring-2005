@@ -8,6 +8,7 @@ image_metadata:
   caption: Opposite ends of a joint are formed to combine two pieces of wood.
   credit: Image courtesy of OCW.
   image-alt: Fabrication processes.
+parent_uid: b04a83ac-6ce1-b70c-5173-ea9e886d5aa3
 resourcetype: Image
 title: fabr5.jpg
 uid: bdae93f2-4b64-0caa-e4e9-cfc38f6f0b21

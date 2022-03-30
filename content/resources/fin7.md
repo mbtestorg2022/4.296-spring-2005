@@ -8,6 +8,7 @@ image_metadata:
   caption: A full view of a table with a built-in storage area, by Lira Nikolovska.
   credit: Image by Chris Dewart.
   image-alt: Final projects.
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin7.jpg
 uid: 556961c1-bb5b-9dd1-1161-0cbb946bcba6

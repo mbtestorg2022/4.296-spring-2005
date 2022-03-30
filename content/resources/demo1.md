@@ -7,6 +7,7 @@ image_metadata:
   caption: Chris Dewart demonstrates how to bore a mortice.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 resourcetype: Image
 title: demo1.jpg
 uid: e72dcc73-dc9c-8a62-8535-967a7f9fdd7c
